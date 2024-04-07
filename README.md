@@ -13,6 +13,7 @@ Alternatively, you can download the individual notebooks and open in google cola
 
 Changes to your notebooks can easily be saved from google colab on your computer or your google drive. We will cover this in the first session.
 
+### Notebooks
 
 **Session1:** *Python Basics*; Tuesday 30th April, 7:30pm
 
@@ -25,4 +26,11 @@ Goto Notebook 2: [![Open In Colab](https://colab.research.google.com/assets/cola
 **Session3:** *Two-Dimensional Kinematics*; Tuesday 14th May, 7:30pm
 
 Goto Notebook 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook3_2024.ipynb)
+
+### Model Solutions
+
+Week 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers1_2024.ipynb)
+Week 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers2_2024.ipynb)
+Week 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers3_2024.ipynb)
+
 
