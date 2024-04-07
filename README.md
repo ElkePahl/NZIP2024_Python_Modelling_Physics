@@ -14,18 +14,13 @@ Alternatively, you can download the individual notebooks and open in google cola
 Changes to your notebooks can easily be saved from google colab on your computer or your google drive. We will cover this in the first session.
 
 
-**Session1:** Tuesday 30th April, 7:30pm
-How To 
+**Session1:** *Python Basics*; Tuesday 30th April, 7:30pm
 
-Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook1_2024.ipynb)
+Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook1_2024.ipynb)
 
-**Session2:** Tuesday 30th April, 7:30pm
-Notebook 2: How To 
+**Session2:** Tuesday 7th May, 7:30pm
+Goto Notebook 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook2_2024.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook2_2024.ipynb)
-
-**Session3:** Tuesday 30th April, 7:30pm
-Notebook 3: How To 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook3_2024.ipynb)
+**Session3:** Tuesday 14th May, 7:30pm
+Goto Notebook 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook3_2024.ipynb)
 
