@@ -17,7 +17,7 @@ Changes to your notebooks can easily be saved from google colab on your computer
 
 **Session 1:** *Python Basics*; Tuesday 30th April, 7:30pm
 
-Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook1_2024.ipynb)
+Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook1_2024.ipynb){:target="_blank"} 
 
 **Session 2:** *One-Dimensional Kinematics*; Tuesday 7th May, 7:30pm
 
