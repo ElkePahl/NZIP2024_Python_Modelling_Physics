@@ -30,7 +30,9 @@ Goto Notebook 3: [![Open In Colab](https://colab.research.google.com/assets/cola
 ### Model Solutions
 
 Week 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers1_2024.ipynb)
+
 Week 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers2_2024.ipynb)
+
 Week 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers3_2024.ipynb)
 
 
