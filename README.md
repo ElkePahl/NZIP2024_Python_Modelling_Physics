@@ -15,3 +15,4 @@ Changes to your notebooks can easily be saved from google colab on your computer
 
 
 **Session1:** Notebook 1: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2023_ProgramminginPhysics/blob/main/EOM_NZIP2023.ipynb)
