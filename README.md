@@ -5,7 +5,7 @@ In completing the module, you will gain the knowledge to create Python notebooks
 
 - Tailored for teachers with *no/minimal experience in programming* and who wish to enhance their teaching toolkit by acquiring a new skill.
 - Experience with teaching *Level2 Kinematics* is required.
-- Dates for 3 online sessions: **Tuesdays 30th April, 7th May and 14th May at 7:30pm**
+- Dates for 3 online sessions: **Tuesday 7th May, 14th May and 28th May at 7:30pm**
 
 The notebooks can be opened in google colab - if you do not have an account yet, please make one using a gmail address.
 Clicking the ```google colab``` buttons below will directly open the corresponding notebooks in google colab.
@@ -15,15 +15,15 @@ Changes to your notebooks can easily be saved from google colab on your computer
 
 ### Notebooks
 
-**Session 1:** *Python Basics*; Tuesday 30th April, 7:30pm
+**Session 1:** *Python Basics*; Tuesday 7th May, 7:30pm
 
 Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook1_2024.ipynb)
 
-**Session 2:** *One-Dimensional Kinematics*; Tuesday 7th May, 7:30pm
+**Session 2:** *One-Dimensional Kinematics*; Tuesday 14th May, 7:30pm
 
 Goto Notebook 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook2_2024.ipynb)
 
-**Session 3:** *Two-Dimensional Kinematics*; Tuesday 14th May, 7:30pm
+**Session 3:** *Two-Dimensional Kinematics*; Tuesday 28th May, 7:30pm
 
 Goto Notebook 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook3_2024.ipynb)
 
