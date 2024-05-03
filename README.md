@@ -21,18 +21,10 @@ Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/cola
 
 **Session 2:** *One-Dimensional Kinematics*; Tuesday 14th May, 7:30pm
 
-Goto Notebook 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook2_2024.ipynb)
-
 **Session 3:** *Two-Dimensional Kinematics*; Tuesday 28th May, 7:30pm
 
-Goto Notebook 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook3_2024.ipynb)
 
 ### Model Solutions
 
 Week 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers1_2024.ipynb)
-
-Week 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers2_2024.ipynb)
-
-Week 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers3_2024.ipynb)
-
 
