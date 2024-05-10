@@ -11,7 +11,7 @@ The notebooks can be opened in google colab - if you do not have an account yet,
 Clicking the ```google colab``` buttons below will directly open the corresponding notebooks in google colab.
 In order to open the link in a new tab on your browser, just do CTRL+click (on Windows and Linux) or CMD+click (on MacOS).
 
-Changes to your notebooks can easily be saved from google colab on your computer or your google drive. We will cover this in the first session.
+Changes to your notebooks can easily be saved from google colab on your computer or your google drive: Click on 'File' in the top left of your colab window; you then have options to save in your google drive with 'Save a copy in drive' or download to your computer and save locally with 'Download/Download .ipynb'. If you start a new Colab session you can upload you notebook with 'File/Upload notebook' which opens a window that allows to get your old notebook from google drive or upload from your computer. Please note that you will have to import the libraries (numpy, matplotlib) again if you want to use them.
 
 ### Notebooks
 
