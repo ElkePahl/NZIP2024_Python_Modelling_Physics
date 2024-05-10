@@ -23,7 +23,6 @@ Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/cola
 
 Goto Notebook 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook2_2024.ipynb)
 
-![image](https://github.com/ElkePahl/NZIP2024_Python_Modelling_Physics/assets/78059161/0aa68614-e540-46d5-85ec-593c3c2e13ff)
 
 
 **Session 3:** *Two-Dimensional Kinematics*; Tuesday 28th May, 7:30pm
@@ -33,6 +32,5 @@ Goto Notebook 2: [![Open In Colab](https://colab.research.google.com/assets/cola
 
 Week 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers1_2024.ipynb)
 
-Week 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers2_2024.ipynb)![image](https://github.com/ElkePahl/NZIP2024_Python_Modelling_Physics/assets/78059161/b21b104b-def8-4a23-bbcb-0ded72de320c)
-
+Week 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers2_2024.ipynb)
 
