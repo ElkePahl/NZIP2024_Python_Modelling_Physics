@@ -34,6 +34,7 @@ Week 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.s
 
 Week 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/modelanswers3_2024.ipynb)
 
+
 ### FAQ
 - **My school does not have access to google colab**: Please use a private google email address for now.
 - **How do I save my notebook?** Changes to your notebooks can easily be saved from google colab on your computer or your google drive: Click on 'File' in the top left of your colab window; you then have options to save in your google drive with 'Save a copy in drive' or download to your computer and save locally with 'Download/Download .ipynb'. If you start a new Colab session you can upload you notebook with 'File/Upload notebook' which opens a window that allows to get your old notebook from google drive or upload from your computer. Please note that you will have to import the libraries (numpy, matplotlib) again if you want to use them.
