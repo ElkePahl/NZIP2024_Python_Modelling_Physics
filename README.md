@@ -36,6 +36,9 @@ Week 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.s
 
 ### Video Solutions
 Video solutions can be found [here](<https://github.com/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/VideoList.docx>)
+[Session 1](https://www.youtube.com/playlist?list=PL8rCD4uP2fxkrb7zO7LTXpa8Qu6OdzT1q)
+[Session 2](https://www.youtube.com/playlist?list=PL8rCD4uP2fxkBOd6Y9bLbCUG_abtvC28-)
+[Session 3](https://www.youtube.com/playlist?list=PL8rCD4uP2fxkCfj6cPo_jYh6dpJNCPIA1)
 
 
 ### FAQ
